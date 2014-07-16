@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) Manvel Shmavonyan, 2011. All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Marmelad
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      ManvelShmavonyan: Marmelad: 2011
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Marmelad
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.000 2011 initial release
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Marmelad
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      Marmelad is a trademark of Manvel Shmavonyan.
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      Manvel Shmavonyan
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0">
+      Designer Manvel Shmavonyan
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) Manvel Shmavonyan, 2011. All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Marmelad
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      ManvelShmavonyan: Marmelad: 2011
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Marmelad
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.000 2011 initial release
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Marmelad
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Marmelad is a trademark of Manvel Shmavonyan.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Manvel Shmavonyan
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Designer Manvel Shmavonyan
+    </namerecord>
+  </name>
+
+</ttFont>
