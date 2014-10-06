@@ -1,0 +1,24 @@
+{
+  "name": "Marmelad",
+  "designer": "Cyreal",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 58842,
+  "fonts": [
+    {
+      "name": "Marmelad",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Marmelad-Regular.ttf",
+      "postScriptName": "Marmelad",
+      "fullName": "Marmelad",
+      "copyright": "Copyright (c) Manvel Shmavonyan, 2011. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-12-07"
+}
